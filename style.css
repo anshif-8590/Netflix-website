@@ -321,8 +321,12 @@ input[type="radio"]{
         font-size: 22px;
     }
     .ph-space{
+<<<<<<< HEAD
         word-spacing: 5px;
         letter-spacing: 6px;
+=======
+        letter-spacing: -3px;
+>>>>>>> a1d93f1ba75d03ebb8c05313d44dc6f836f36b4b
     }
 
 
