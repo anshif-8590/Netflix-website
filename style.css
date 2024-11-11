@@ -320,6 +320,9 @@ input[type="radio"]{
     label::after{
         font-size: 22px;
     }
+    .ph-space{
+        letter-spacing: -3px;
+    }
 
 
 }
